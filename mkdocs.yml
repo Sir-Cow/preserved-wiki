@@ -1,5 +1,11 @@
 site_name: Preserved
-site_url: https://mydomain.org/mysite
+site_url:
+site_description: |
+  Preserved mod set documentation.
+repo_name: Sir-Cow/preserved-wiki
+repo_url: https://github.com/Sir-Cow/preserved-wiki
+edit_uri: tree/main/docs
+
 nav:
   - Home: index.md
   - Inferno: inferno.md
