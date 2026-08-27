@@ -1,34 +1,34 @@
 site_name: Preserved
-site_url:
+site_url: https://sir-cow.github.io/preserved-wiki/
 site_description: |
   Preserved mod set documentation.
+
 repo_name: Sir-Cow/preserved-wiki
 repo_url: https://github.com/Sir-Cow/preserved-wiki
-edit_uri: tree/main/docs
+edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
   - Inferno: inferno.md
+
 theme:
-  favicon: img/favicon.ico
   name: material
+  favicon: img/favicon.ico
+
   palette:
-    # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
-        name: Switch to light mode
+        name: Use system preference
 
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to system preference
+        name: Switch to light mode
