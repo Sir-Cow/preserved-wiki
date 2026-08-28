@@ -12,6 +12,11 @@ nav:
   - Inferno:
     - Overview: inferno/overview.md
     - Angling Table: inferno/angling_table.md
+    - Cache: inferno/cache.md
+    - Copper Trident: inferno/copper_trident.md
+    - Multitool: inferno/multitool.md
+    - Rhyolite: inferno/rhyolite.md
+    - Sparkling Blackstone: inferno/sparkling_blackstone.md
 
 theme:
   name: material

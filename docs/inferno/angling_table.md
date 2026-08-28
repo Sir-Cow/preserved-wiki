@@ -2,13 +2,19 @@
 
 An angling table is a block used to add and remove fishing rod parts from fishing rods.
 
+[Add table with block details.]
+
 ## Obtaining
 
 ### Breaking
 
 Angling tables can be mined by hand or with any tool, but axes are the quickest.
 
+[Add table.]
+
 ### Crafting
+
+[Add table with graphic.]
 
 ## Usage
 
