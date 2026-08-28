@@ -1,3 +1,0 @@
-# Inferno
-
-Work in progress

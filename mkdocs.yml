@@ -9,7 +9,9 @@ edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
-  - Inferno: inferno.md
+  - Inferno:
+    - Overview: inferno/overview.md
+    - Angling Table: inferno/angling_table.md
 
 theme:
   name: material
