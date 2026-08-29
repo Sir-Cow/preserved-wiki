@@ -1,5 +1,10 @@
 :root {
-  --md-grid-max-width: 80rem; 
+  --md-grid-max-width: 100%;
+}
 
-  --md-content-max-width: 60rem;
+.md-header__inner,
+.md-main__inner {
+  max-width: 100% !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
