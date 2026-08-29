@@ -51,6 +51,7 @@ plugins:
       image_disabled: false
 
 extra_css:
+  - stylesheets/extra.css
   - stylesheets/link-embeds.css
 
 markdown_extensions:
