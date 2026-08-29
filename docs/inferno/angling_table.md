@@ -2,7 +2,64 @@
 
 An angling table is a block used to add and remove fishing rod parts from fishing rods.
 
-[Add table with block details.]
+<div style="float: right; width: 300px; margin-left: 20px;">
+
+<table>
+<tr>
+<th colspan="2"><center>Angling Table</th>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="../img/inferno/angling_table.png" alt="Angling Table" width="200">
+</td>
+</tr>
+<tr>
+<th align="left">Renewable</th>
+<td>No</td>
+</tr>
+<tr>
+<th align="left">Stackable</th>
+<td>Yes (64)</td>
+</tr>
+<tr>
+<th align="left">Tool</th>
+<td>Wooden Axe</td>
+</tr>
+<tr>
+<th align="left">Blast resistance</th>
+<td>3</td>
+</tr>
+<tr>
+<th align="left">Hardness</th>
+<td>2.5</td>
+</tr>
+<tr>
+<th align="left">Luminous</th>
+<td>No</td>
+</tr>
+<tr>
+<th align="left">Transparent</th>
+<td>No</td>
+</tr>
+<tr>
+<th align="left">Flammable</th>
+<td>Yes</td>
+</tr>
+<tr>
+<th align="left">Catches fire from lava</th>
+<td>Yes</td>
+</tr>
+<tr>
+<th align="left">Map color</th>
+<td>28 COLOR_RED</td>
+</tr>
+<tr>
+<th align="left">Note block instrument</th>
+<td>Bass</td>
+</tr>
+</table>
+
+</div>
 
 ## Obtaining
 
@@ -10,11 +67,14 @@ An angling table is a block used to add and remove fishing rod parts from fishin
 
 Angling tables can be mined by hand or with any tool, but axes are the quickest.
 
-[Add table.]
+| Block    | Angling Table |
+| -------- | ------------- |
+| Hardness | 2.5           |
+| Tool     | Axe           |
 
 ### Crafting
 
-[Add table with graphic.]
+<img src="../img/inferno/angling_table_recipe.png" alt="Angling Table Recipe" width="300">
 
 ## Usage
 
