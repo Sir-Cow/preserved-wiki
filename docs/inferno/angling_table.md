@@ -10,7 +10,7 @@ An angling table is a block used to add and remove fishing rod parts from fishin
 </tr>
 <tr>
 <td colspan="2" align="center" markdown="1">
-<img src="../img/inferno/angling_table.png" alt="Angling Table" width="200">
+<img src="../../img/inferno/angling_table.png" alt="Angling Table" width="200">
 </td>
 </tr>
 <tr>
