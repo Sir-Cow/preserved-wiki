@@ -76,8 +76,8 @@ A multitool can recieve the following enchantments:
 
 ## History
 
-| Version | Change |
-| ----------- | --------------------- |
+| Version    | Change            |
+| ---------- | ------------------|
 | beta-1.4.0 | Added multitools. |
 | beta-1.4.2 | Increased quartzite multitool mining efficiency from 6 → 8<br>Increased quartzite multitool durability from 64 → 128<br>Increased golden multitool mining efficiency from 9 → 12<br>Increased golden multitool durability from 128 → 256<br>Increased nether alloy multitool mining efficiency from 12 → 16<br>Increased nether alloy multitool durability from 256 → 512<br>Reduced netherite multitool mining efficiency from 18 → 16<br>Fixed multitools not granting the "Just Like New" advancement when scraping oxidized copper.<br>Fixed multitools not granting the "Lighten Up" advancement when scraping a copper bulb.<br>Fixed multitools not having their mining efficiency values displayed in their tooltips.<br>Fixed piglins not being distracted by golden multitools. |
 | beta-1.4.3 | Increased all multitool attack speeds from 0.6 → 0.8<br>The texture of all multitools have been changed. |

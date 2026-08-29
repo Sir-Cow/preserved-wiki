@@ -114,11 +114,11 @@ Tridents enchanted with Channeling summon a lightning bolt upon hitting a mob, p
 
 ## History
 
-| Version | Change |
-| ----------- | --------------------- |
-| beta-1.1.2 | Added copper tridents.<br>Drowned mobs now have a 15% chance to spawn with a copper trident. |
-| beta-1.2.0 | Copper tridents can now be obtained through trial chamber loot. |
+| Version    | Change                                                                                                                                                         |
+| -----------| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| beta-1.1.2 | Added copper tridents.<br>Drowned mobs now have a 15% chance to spawn with a copper trident.                                                                   |
+| beta-1.2.0 | Copper tridents can now be obtained through trial chamber loot.                                                                                                |
 | beta-1.4.0 | Increased copper trident base damage from 8 → 9<br>Increased copper trident projectile damage from 8 → 9<br>Increased copper trident riptide damage from 6 → 8 |
-| beta-1.4.2 | Fixed copper trident projectile damage being the incorrect value. |
-| beta-1.4.4 | Fixed copper tridents enchanted with riptide also being able to receive the loyalty enchantment through the enchanting table. |
-| beta-1.6.0 | Fixed copper tridents not being compatible with the unbreaking enchantment. |
+| beta-1.4.2 | Fixed copper trident projectile damage being the incorrect value.                                                                                              |
+| beta-1.4.4 | Fixed copper tridents enchanted with riptide also being able to receive the loyalty enchantment through the enchanting table.                                  |
+| beta-1.6.0 | Fixed copper tridents not being compatible with the unbreaking enchantment.                                                                                    |

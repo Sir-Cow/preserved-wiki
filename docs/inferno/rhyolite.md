@@ -40,9 +40,9 @@ Andesite has the same blast resistance as stone, allowing it to be used as a rep
 
 ## History
 
-| Version | Change |
-| ----------- | --------------- |
-| alpha-0.8.0 | Added rhyolite. |
-| beta-1.2.0 | Rhyolite is now bought by mason villagers. |
-| beta-1.4.4 | The texture of rhyolite has been changed. |
-| beta-1.5.1 | Rhyolite can now be absorbed by sulfur cubes, providing the slow bouncy effect. |
+| Version     | Change                                                                          |
+| ----------- | ------------------------------------------------------------------------------- |
+| alpha-0.8.0 | Added rhyolite.                                                                 |
+| beta-1.2.0  | Rhyolite is now bought by mason villagers.                                      |
+| beta-1.4.4  | The texture of rhyolite has been changed.                                       |
+| beta-1.5.1  | Rhyolite can now be absorbed by sulfur cubes, providing the slow bouncy effect. |

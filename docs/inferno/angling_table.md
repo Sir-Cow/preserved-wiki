@@ -25,7 +25,7 @@ An angling table is a block used to add and remove fishing rod parts from fishin
 </tr>
 <tr>
 <th align="left">Tool</th>
-<td>Wooden Axe</td>
+<td>Axe</td>
 </tr>
 <tr>
 <th align="left">Blast resistance</th>
@@ -72,7 +72,7 @@ An angling table is a block used to add and remove fishing rod parts from fishin
 Angling tables can be mined by hand or with any tool, but axes are the quickest.
 
 | Block    | Angling Table |
-| -------- | ------------- |
+| -------- | :-----------: |
 | Hardness | 2.5           |
 | Tool     | Axe           |
 

@@ -41,6 +41,17 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  features:
+    - navigation.footer
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/PreservedMC
+      name: Preserved Twitter
+
+copyright: Copyright &copy; 2026 Team Preserved
 
 plugins:
   - search

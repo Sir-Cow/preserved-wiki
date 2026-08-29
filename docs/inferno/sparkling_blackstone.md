@@ -33,7 +33,7 @@ Sparkling blackstone is destroyed when pushed by a piston. It cannot be pulled b
 
 ## History
 
-| Version | Change |
-| ----------- | --------------------- |
-| beta-1.4.0 | Added sparkling blackstone. |
+| Version    | Change                                               |
+| ---------- | -----------------------------------------------------|
+| beta-1.4.0 | Added sparkling blackstone.                          |
 | beta-1.4.3 | Doubled gold nugget drops from sparkling blackstone. |
