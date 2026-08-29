@@ -1,4 +1,4 @@
-site_name: Preserved
+site_name: Preserved Wiki
 site_url: https://sir-cow.github.io/preserved-wiki/
 site_description: |
   Preserved mod set documentation.
@@ -21,7 +21,9 @@ nav:
 theme:
   name: material
   favicon: img/favicon.ico
-
+  font:
+    text: Atkinson Hyperlegible
+    code: JetBrains Mono
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -39,6 +41,17 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+plugins:
+  - search
+  - link-embeds:
+      enabled: true
+      name_default: "Untitled Link"
+      desc_default: "No description found"
+      image_disabled: false
+
+extra_css:
+  - stylesheets/link-embeds.css
 
 markdown_extensions:
   - attr_list
