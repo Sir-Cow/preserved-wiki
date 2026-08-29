@@ -8,3 +8,15 @@
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+.md-typeset hr {
+  border-bottom: 2px solid;
+}
+
+[data-md-color-scheme="default"] .md-typeset hr {
+  border-color: rgba(0, 0, 0, 0.7);
+}
+
+[data-md-color-scheme="slate"] .md-typeset hr {
+  border-color: rgba(255, 255, 255, 0.7);
+}
