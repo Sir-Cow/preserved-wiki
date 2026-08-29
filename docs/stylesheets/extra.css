@@ -11,6 +11,8 @@
 
 .md-typeset hr {
   border-bottom: 2px solid;
+  margin-top: 0.4em;
+  margin-bottom: 1.5em;
 }
 
 [data-md-color-scheme="default"] .md-typeset hr {
