@@ -1,10 +1,39 @@
 # Multitool
 
+---
+
 A multitool is a tiered tool that is able to mine most blocks. The mining level of a given multitool determines which blocks it can collect.
 
-[Add table with item details.]
+<div style="float: right; width: 300px; margin-left: 20px;">
+
+<table>
+<tr>
+<th colspan="2"><center>Multitool</th>
+</tr>
+<tr>
+<td colspan="2" align="center" markdown="1">
+<img src="../../img/inferno/multitool.gif" alt="Multitool" width="200">
+</td>
+</tr>
+<tr>
+<th align="left">Rarity tier</th>
+<td>Common</td>
+</tr>
+<tr>
+<th align="left">Renewable</th>
+<td>-</td>
+</tr>
+<tr>
+<th align="left">Stackable</th>
+<td>No</td>
+</tr>
+</table>
+
+</div>
 
 ## Variants
+
+---
 
 There are 9 multitool variants:
 
@@ -20,6 +49,8 @@ There are 9 multitool variants:
 
 ## Obtaining
 
+---
+
 ### Crafting
 
 All multitools are crafted using five resin bricks and an axe, pickaxe, scythe, and shovel of the tier's material.
@@ -27,6 +58,8 @@ All multitools are crafted using five resin bricks and an axe, pickaxe, scythe, 
 [Add table with recipes.]
 
 ## Usage
+
+---
 
 ### Breaking
 
@@ -75,6 +108,8 @@ A multitool can recieve the following enchantments:
 [Add table with enchantments.]
 
 ## History
+
+---
 
 | Version    | Change            |
 | ---------- | ------------------|

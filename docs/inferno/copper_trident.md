@@ -1,10 +1,39 @@
 # Copper Trident
 
+---
+
 A copper trident is a weapon that can be used to perform melee attacks, or be thrown as a projectile that is not slowed down by water. It cannot be crafted, and is only obtainable rarely from vaults and copper trident-weilding drowned.
 
-[Add table with item details.]
+<div style="float: right; width: 300px; margin-left: 20px;">
+
+<table>
+<tr>
+<th colspan="2"><center>Copper Trident</th>
+</tr>
+<tr>
+<td colspan="2" align="center" markdown="1">
+<img src="../../img/inferno/copper_trident.png" alt="Copper Trident" width="200">
+</td>
+</tr>
+<tr>
+<th align="left">Rarity tier</th>
+<td>Uncommon</td>
+</tr>
+<tr>
+<th align="left">Renewable</th>
+<td>No</td>
+</tr>
+<tr>
+<th align="left">Stackable</th>
+<td>No</td>
+</tr>
+</table>
+
+</div>
 
 ## Obtaining
+
+---
 
 ### Generated Loot
 
@@ -25,6 +54,8 @@ Copper tridents thrown onto the ground by a player can be picked up; however, co
 Only the owner of a copper trident thrown in Creative mode or enchanted with Loyalty can pick it up; other players in Creative and players in Survival mode, including its owner, cannot pick up a copper trident thrown in Creative.
 
 ## Usage
+
+---
 
 ### Attacking
 
@@ -108,11 +139,15 @@ Tridents enchanted with Channeling summon a lightning bolt upon hitting a mob, p
 
 ## Advancements
 
+---
+
 [Not Today, Thank You; Sniper Duel; Bullseye]
 
 [Add table with advancements.]
 
 ## History
+
+---
 
 | Version    | Change                                                                                                                                                         |
 | -----------| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
