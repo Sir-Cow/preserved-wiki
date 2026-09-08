@@ -2,7 +2,7 @@
 
 ---
 
-An angling table is a block used to add and remove fishing rod parts from fishing rods.
+An Angling Table is a block used to add and remove fishing rod parts from fishing rods.
 
 <div style="float: right; width: 300px; margin-left: 20px;">
 

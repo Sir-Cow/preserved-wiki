@@ -2,7 +2,7 @@
 
 ---
 
-A multitool is a tiered tool that is able to mine most blocks. The mining level of a given multitool determines which blocks it can collect.
+A Multitool is a tiered tool that is able to mine most blocks. The mining level of a given multitool determines which blocks it can collect.
 
 <div style="float: right; width: 300px; margin-left: 20px;">
 

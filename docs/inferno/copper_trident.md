@@ -2,7 +2,7 @@
 
 ---
 
-A copper trident is a weapon that can be used to perform melee attacks, or be thrown as a projectile that is not slowed down by water. It cannot be crafted, and is only obtainable rarely from vaults and copper trident-weilding drowned.
+A Copper Trident is a weapon that can be used to perform melee attacks, or be thrown as a projectile that is not slowed down by water. It cannot be crafted, and is only obtainable rarely from vaults and copper trident-weilding drowned.
 
 <div style="float: right; width: 300px; margin-left: 20px;">
 

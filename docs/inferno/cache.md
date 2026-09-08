@@ -74,7 +74,19 @@ A cache is an item that can store other items within itself in a single inventor
 - Potion loot
   - Each cache will roll this pool 0-2 times. This pool contains potions of water breathing.
 
-[Add table with loot table.]
+| Loot Pool | Item                      | Amount | Weight | Chance per Roll | Chance in Cache |
+| :-------: | ------------------------- | :----: | :----: | :-------------: | :-------------: |
+| 1         | Aquatic Fiber             | 1      | —      | 100%            | 100%            |
+| 2         | Iron Ingot                | 1–3    | 20     | 66.67%          | 99.85%          |
+| 2         | Gold Ingot                | 1–3    | 10     | 33.33%          | 83.95%          |
+| 3         | Emerald                   | 1–2    | 5      | 33.33%          | 53.09%          |
+| 3         | Diamond                   | 1      | 5      | 33.33%          | 53.09%          |
+| 3         | Prismarine Shard          | 3–5    | 5      | 33.33%          | 53.09%          |
+| 4         | Nautilus Shell            | 1      | 3      | 75%             | 37.50%          |
+| 4         | Heart of the Sea          | 1      | 1      | 25%             | 12.50%          |
+| 5         | Cooked Cod                | 3–5    | —      | 50%             | 75%             |
+| 5         | Cooked Salmon             | 3–5    | —      | 50%             | 75%             |
+| 6         | Potion of Water Breathing | 1      | —      | 100%            | 66.67%          |
 
 ## History
 
