@@ -24,7 +24,7 @@ theme:
   name: material
   custom_dir: overrides
   favicon: img/favicon.ico
-  logo: img/inferno/inferno.png
+  logo: img/inferno/inferno_transparent.png
   font:
     text: Atkinson Hyperlegible
     code: JetBrains Mono
