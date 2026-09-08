@@ -28,12 +28,12 @@ Inferno is the core mod of the Preserved mod set which aims to enhance various a
 <summary>Here is a brief look into what you can expect while playing this mod:</summary>
 
 - Reduced player power level
-  - Most armor, tools, and weapons have been reduced in power.
-  - Enchantments have been massively overhauled to reduce player strength.
-  - Nerfs to all food items and saturation.
+    - Most armor, tools, and weapons have been reduced in power.
+    - Enchantments have been massively overhauled to reduce player strength.
+    - Nerfs to all food items and saturation.
 - Reduced player progression speed
-  - Ore generation has been changed to slow down the game.
-  - More intermediate steps have been introduced to player progression.
+    - Ore generation has been changed to slow down the game.
+    - More intermediate steps have been introduced to player progression.
 
 The following are the areas of the game that have been changed:
 
@@ -73,7 +73,7 @@ This mod is updated using the most modern version of Minecraft. Previous version
 
 If you happen to experience any issues while using this mod, please report it to our [GitHub issue tracker](https://github.com/Sir-Cow/preserved-inferno/issues)! Please be as clear as possible when reporting any bugs or issues.
 
-## Download
+## 🖥️ Download
 
 ---
 

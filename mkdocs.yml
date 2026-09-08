@@ -17,6 +17,8 @@ nav:
     - Multitool: inferno/multitool.md
     - Rhyolite: inferno/rhyolite.md
     - Sparkling Blackstone: inferno/sparkling_blackstone.md
+  - Torrential:
+    - Overview: torrential/overview.md
 
 theme:
   name: material
