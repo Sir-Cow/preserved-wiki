@@ -26,7 +26,7 @@ A Copper Trident is a weapon that can be used to perform melee attacks, or be th
 </tr>
 <tr>
 <th align="left">Renewable</th>
-<td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <th align="left">Stackable</th>

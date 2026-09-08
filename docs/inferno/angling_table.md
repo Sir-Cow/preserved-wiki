@@ -22,7 +22,7 @@ An Angling Table is a block used to add and remove fishing rod parts from fishin
 </tr>
 <tr>
 <th align="left">Renewable</th>
-<td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <th align="left">Stackable</th>

@@ -62,7 +62,7 @@ Rhyolite is a block of igneous rock that can be found naturally and is created w
 </tr>
 <tr>
 <th align="left">Note block instrument</th>
-<td>Basedrum</td>
+<td>Bass drum</td>
 </tr>
 </table>
 
@@ -89,7 +89,7 @@ Rhyolite is formed when flowing water touches a lava source block. It can be fou
 
 ---
 
-Andesite has the same blast resistance as stone, allowing it to be used as a replacement for stone when building.
+Rhyolite has the same blast resistance as stone, allowing it to be used as a replacement for stone when building.
 
 ### Crafting ingredient
 

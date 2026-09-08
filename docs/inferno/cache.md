@@ -24,7 +24,7 @@ hide:
 </tr>
 <tr>
 <th align="left">Renewable</th>
-<td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <th align="left">Stackable</th>
@@ -67,17 +67,17 @@ Caches can be stored in all containers except for other caches, shulker boxes, a
 A cache is an item that can store other items within itself in a single inventory slot. A cache will roll multiple pools of loot, which can sometimes include unstackable items. It rolls from each of following loot pools.
 
 - Aquatic fiber
-  - Every cache caught will contain one aquatic fiber.
+    - Every cache caught will contain one aquatic fiber.
 - Common loot
-  - Each cache will roll this pool 5-8 times. This pool contains iron ingots and gold ingots.
+    - Each cache will roll this pool 5-8 times. This pool contains iron ingots and gold ingots.
 - Rare loot
-  - Each cache will roll this pool 1-3 times. This pool contains emeralds, diamonds, and prismarine shards.
+    - Each cache will roll this pool 1-3 times. This pool contains emeralds, diamonds, and prismarine shards.
 - Cooked fish
-  - Each cache will roll this pool 2 times. This pool contains cooked cod and cooked salmon.
+    - Each cache will roll this pool 2 times. This pool contains cooked cod and cooked salmon.
 - Unique loot
-  - Each cache will roll this pool 0-1 times. This pool contains nautilus shells and the heart of the sea.
+    - Each cache will roll this pool 0-1 times. This pool contains nautilus shells and the heart of the sea.
 - Potion loot
-  - Each cache will roll this pool 0-2 times. This pool contains potions of water breathing.
+    - Each cache will roll this pool 0-2 times. This pool contains potions of water breathing.
 
 | Loot Pool | Item                      | Amount | Weight | Chance per Roll | Chance in Cache |
 | :-------: | ------------------------- | :----: | :----: | :-------------: | :-------------: |

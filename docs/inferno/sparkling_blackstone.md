@@ -62,7 +62,7 @@ Sparkling Blackstone is a fragile block found in bastion remnants that matures o
 </tr>
 <tr>
 <th align="left">Note block instrument</th>
-<td>Basedrum</td>
+<td>Bass drum</td>
 </tr>
 </table>
 

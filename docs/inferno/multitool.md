@@ -26,7 +26,7 @@ A Multitool is a tiered tool that is able to mine most blocks. The mining level 
 </tr>
 <tr>
 <th align="left">Renewable</th>
-<td>-</td>
+<td>Yes</td>
 </tr>
 <tr>
 <th align="left">Stackable</th>
