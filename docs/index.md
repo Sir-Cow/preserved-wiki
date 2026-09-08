@@ -1,6 +1,9 @@
 ---
 hide:
   - footer
+  
+search:
+  exclude: true
 ---
 
 # Team Preserved

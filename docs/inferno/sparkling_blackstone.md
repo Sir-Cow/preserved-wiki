@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Sparkling Blackstone
 
 ---
