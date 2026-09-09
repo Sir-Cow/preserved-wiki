@@ -19,6 +19,12 @@ nav:
     - Sparkling Blackstone: inferno/sparkling_blackstone.md
   - Torrential:
     - Overview: torrential/overview.md
+  - Sunshine Grace:
+    - Overview: sunshine-grace/overview.md
+  - Reverb Compass:
+    - Overview: reverb-compass/overview.md
+  - Bundle Auto Funnel:
+    - Overview: bundle-auto-funnel/overview.md 
 
 theme:
   name: material
@@ -71,3 +77,8 @@ extra_css:
 
 markdown_extensions:
   - attr_list
+  - md_in_html
+  - pymdownx.superfences
+
+extra_javascript:
+  - javascripts/modrinth.js
