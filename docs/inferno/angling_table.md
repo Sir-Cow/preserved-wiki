@@ -3,70 +3,29 @@ hide:
   - footer
 ---
 
+{% from "includes/block_info.md" import block_info with context %}
+
 # Angling Table
 
 ---
 
 An Angling Table is a block used to add and remove fishing rod parts from fishing rods.
 
-<div style="float: right; width: 300px; margin-left: 20px;">
-
-<table>
-<tr>
-<th colspan="2"><center>Angling Table</th>
-</tr>
-<tr>
-<td colspan="2" align="center" markdown="1">
-<img src="../../img/inferno/angling_table.png" alt="Angling Table" width="200">
-</td>
-</tr>
-<tr>
-<th align="left">Renewable</th>
-<td>Yes</td>
-</tr>
-<tr>
-<th align="left">Stackable</th>
-<td>Yes (64)</td>
-</tr>
-<tr>
-<th align="left">Tool</th>
-<td>Axe</td>
-</tr>
-<tr>
-<th align="left">Blast resistance</th>
-<td>3</td>
-</tr>
-<tr>
-<th align="left">Hardness</th>
-<td>2.5</td>
-</tr>
-<tr>
-<th align="left">Luminous</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Transparent</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Flammable</th>
-<td>Yes</td>
-</tr>
-<tr>
-<th align="left">Catches fire from lava</th>
-<td>Yes</td>
-</tr>
-<tr>
-<th align="left">Map color</th>
-<td>28 COLOR_RED</td>
-</tr>
-<tr>
-<th align="left">Note block instrument</th>
-<td>Bass</td>
-</tr>
-</table>
-
-</div>
+{{ block_info(
+    name="Angling Table",
+    image="../../img/inferno/angling_table.png",
+    renewable="Yes",
+    stackable="Yes (64)",
+    tool="Axe",
+    blast_resistance="3",
+    hardness="2.5",
+    luminous="No",
+    transparent="No",
+    flammable="Yes",
+    catches_fire_from_lava="Yes",
+    map_color="28 COLOR_RED",
+    note_block_instrument="Bass"
+) }}
 
 ## Obtaining
 

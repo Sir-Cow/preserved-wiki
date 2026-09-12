@@ -3,70 +3,29 @@ hide:
   - footer
 ---
 
+{% from "includes/block_info.md" import block_info with context %}
+
 # Rhyolite
 
 ---
 
 Rhyolite is a block of igneous rock that can be found naturally and is created when water flows over a lava source.
 
-<div style="float: right; width: 300px; margin-left: 20px;">
-
-<table>
-<tr>
-<th colspan="2"><center>Rhyolite</th>
-</tr>
-<tr>
-<td colspan="2" align="center" markdown="1">
-<img src="../../img/inferno/rhyolite.png" alt="Rhyolite" width="200">
-</td>
-</tr>
-<tr>
-<th align="left">Renewable</th>
-<td>Yes</td>
-</tr>
-<tr>
-<th align="left">Stackable</th>
-<td>Yes (64)</td>
-</tr>
-<tr>
-<th align="left">Tool</th>
-<td>Pickaxe</td>
-</tr>
-<tr>
-<th align="left">Blast resistance</th>
-<td>6</td>
-</tr>
-<tr>
-<th align="left">Hardness</th>
-<td>1.5</td>
-</tr>
-<tr>
-<th align="left">Luminous</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Transparent</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Flammable</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Catches fire from lava</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Map color</th>
-<td>10 DIRT</td>
-</tr>
-<tr>
-<th align="left">Note block instrument</th>
-<td>Bass drum</td>
-</tr>
-</table>
-
-</div>
+{{ block_info(
+    name="Rhyolite",
+    image="../../img/inferno/rhyolite.png",
+    renewable="Yes",
+    stackable="Yes (64)",
+    tool="Pickaxe",
+    blast_resistance="6",
+    hardness="1.5",
+    luminous="No",
+    transparent="No",
+    flammable="No",
+    catches_fire_from_lava="No",
+    map_color="10 DIRT",
+    note_block_instrument="Bass drum"
+) }}
 
 ## Obtaining
 

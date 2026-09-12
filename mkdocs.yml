@@ -65,6 +65,7 @@ copyright: Copyright &copy; 2026 Team Preserved
 
 plugins:
   - search
+  - macros
   - link-embeds:
       enabled: true
       name_default: "Untitled Link"
