@@ -1,6 +1,10 @@
 ---
+description: A Copper Trident is a weapon that can be used to perform melee attacks, or be thrown as a projectile that is not slowed down by water.
+
 hide:
   - footer
+
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/copper_trident.png
 ---
 
 # Copper Trident
@@ -42,9 +46,9 @@ A Copper Trident is a weapon that can be used to perform melee attacks, or be th
 
 ### Generated Loot
 
-[Trial Chambers, vault and reward chest, 2.1% (1/48)]
-
-[Add table with loot table details.]
+| Item           | Structure      | Container              | Quantity | Chance      |
+| -------------- | -------------- | ---------------------- | :------: | :---------: |
+| Copper Trident | Trail Chambers | Vault and reward chest | 1        | 2.1% (1/48) |
 
 ### Mob Loot
 

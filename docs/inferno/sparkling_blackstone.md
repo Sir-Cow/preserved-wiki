@@ -1,7 +1,13 @@
 ---
+description: Sparkling Blackstone is a fragile block found in bastion remnants that matures over time.
+
 hide:
   - footer
+
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/sparkling_blackstone.gif
 ---
+
+{% from "includes/block_info.md" import block_info with context %}
 
 # Sparkling Blackstone
 
@@ -9,64 +15,21 @@ hide:
 
 Sparkling Blackstone is a fragile block found in bastion remnants that matures over time. It drops nothing if broken at its first stage, but will drop increasing amounts of gold nuggets as it matures. It cannot be moved from where it is found.
 
-<div style="float: right; width: 300px; margin-left: 20px;">
-
-<table>
-<tr>
-<th colspan="2"><center>Sparkling Blackstone</th>
-</tr>
-<tr>
-<td colspan="2" align="center" markdown="1">
-<img src="../../img/inferno/sparkling_blackstone.gif" alt="Sparkling Blackstone" width="200">
-</td>
-</tr>
-<tr>
-<th align="left">Renewable</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Stackable</th>
-<td>Yes (64)</td>
-</tr>
-<tr>
-<th align="left">Tool</th>
-<td>Pickaxe</td>
-</tr>
-<tr>
-<th align="left">Blast resistance</th>
-<td>6</td>
-</tr>
-<tr>
-<th align="left">Hardness</th>
-<td>1.5</td>
-</tr>
-<tr>
-<th align="left">Luminous</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Transparent</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Flammable</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Catches fire from lava</th>
-<td>No</td>
-</tr>
-<tr>
-<th align="left">Map color</th>
-<td>18 COLOR_YELLOW</td>
-</tr>
-<tr>
-<th align="left">Note block instrument</th>
-<td>Bass drum</td>
-</tr>
-</table>
-
-</div>
+{{ block_info(
+    name="Sparkling Blackstone",
+    image="../../img/inferno/sparkling_blackstone.gif",
+    renewable="No",
+    stackable="Yes (64)",
+    tool="Pickaxe",
+    blast_resistance="6",
+    hardness="1.5",
+    luminous="No",
+    transparent="No",
+    flammable="No",
+    catches_fire_from_lava="No",
+    map_color="18 COLOR_YELLOW",
+    note_block_instrument="Bass drum"
+) }}
 
 ## Obtaining
 

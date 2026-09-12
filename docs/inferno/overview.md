@@ -1,9 +1,13 @@
 ---
+description: Minecraft mod that enhances the "survival" aspect of Minecraft's gameplay. Core mod for the Preserved mod set.
+
 hide:
   - footer
 
 search:
   exclude: true
+
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/inferno.png
 ---
 
 # Inferno

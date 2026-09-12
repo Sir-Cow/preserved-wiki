@@ -1,9 +1,13 @@
 ---
+description: Minecraft mod that adds new mechanics to Minecraft’s fishing system to give it more depth and rewards.
+
 hide:
   - footer
 
 search:
   exclude: true
+
+social_image: https://sir-cow.github.io/preserved-wiki/img/torrential/torrential.png
 ---
 
 # 🌊 Torrential

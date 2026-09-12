@@ -1,9 +1,13 @@
 ---
+description: Minecraft mod allows items that get picked up or put into the inventory to immediately be placed into a bundle that has that item.
+
 hide:
   - footer
 
 search:
   exclude: true
+
+social_image: https://sir-cow.github.io/preserved-wiki/img/bundle-auto-funnel/bundle_auto_funnel.png
 ---
 
 # 💰 Bundle Auto Funnel

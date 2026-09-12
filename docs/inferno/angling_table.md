@@ -1,6 +1,10 @@
 ---
+description: An Angling Table is a block used to add and remove fishing rod parts from fishing rods.
+
 hide:
   - footer
+
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/angling_table.png
 ---
 
 {% from "includes/block_info.md" import block_info with context %}

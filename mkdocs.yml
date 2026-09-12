@@ -1,7 +1,7 @@
-site_name: Preserved Wiki
+site_name: Team Preserved
 site_url: https://sir-cow.github.io/preserved-wiki/
 site_description: |
-  Preserved mod set documentation.
+  Official Team Preserved website containing documentation for our projects.
 
 repo_name: Sir-Cow/preserved-wiki
 repo_url: https://github.com/Sir-Cow/preserved-wiki
@@ -77,6 +77,7 @@ extra_css:
   - stylesheets/link-embeds.css
 
 markdown_extensions:
+  - admonition
   - attr_list
   - md_in_html
   - pymdownx.superfences

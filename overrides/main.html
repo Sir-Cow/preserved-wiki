@@ -3,4 +3,15 @@
 {% block extrahead %}
   {{ super() }}
   <meta name="robots" content="noarchive">
+
+  {% if page %}
+    <meta property="og:title" content="{{ page.title }} - {{ config.site_name }}">
+    <meta property="og:description" content="{{ config.site_description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.canonical_url }}">
+
+    {% if page.meta.social_image %}
+      <meta property="og:image" content="{{ page.meta.social_image }}">
+    {% endif %}
+  {% endif %}
 {% endblock %}

@@ -1,6 +1,8 @@
 ---
 hide:
   - footer
+
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/cache.png
 ---
 
 # Cache
