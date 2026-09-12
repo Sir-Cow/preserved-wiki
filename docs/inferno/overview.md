@@ -1,5 +1,7 @@
 ---
-description: Minecraft mod that enhances the "survival" aspect of Minecraft's gameplay. Core mod for the Preserved mod set.
+description: >-
+  Minecraft mod that enhances the "survival" aspect of Minecraft's gameplay.
+  Core mod for the Preserved mod set.
 
 hide:
   - footer

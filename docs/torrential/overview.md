@@ -1,5 +1,6 @@
 ---
-description: Minecraft mod that adds new mechanics to Minecraft’s fishing system to give it more depth and rewards.
+description: >-
+  Minecraft mod that adds new mechanics to Minecraft's fishing system to give it more depth and rewards.
 
 hide:
   - footer
