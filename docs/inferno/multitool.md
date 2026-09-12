@@ -1,5 +1,5 @@
 ---
-description: A Multitool is a tiered tool that is able to mine most blocks.
+social_description: A Multitool is a tiered tool that is able to mine most blocks.
 
 hide:
   - footer

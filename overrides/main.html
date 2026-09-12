@@ -5,13 +5,13 @@
   <meta name="robots" content="noarchive">
 
   {% if page %}
-    <meta property="og:title" content="{{ page.title | e }} - {{ config.site_name | e }}">
-    <meta property="og:description" content="{{ page.meta.description | default(config.site_description) | e }}">
+    <meta property="og:title" content="{{ page.title | replace('"', '&quot;') }}">
+    <meta property="og:description" content="{{ page.meta.social_description | replace('"', '&quot;') }}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ page.canonical_url | e }}">
-
+    <meta property="og:url" content="{{ page.canonical_url }}">
+    
     {% if page.meta.social_image %}
-      <meta property="og:image" content="{{ page.meta.social_image | e }}">
+      <meta property="og:image" content="{{ page.meta.social_image }}">
     {% endif %}
   {% endif %}
 {% endblock %}

@@ -1,5 +1,5 @@
 ---
-description: Sparkling Blackstone is a fragile block found in bastion remnants that matures over time.
+social_description: Sparkling Blackstone is a fragile block found in bastion remnants that matures over time.
 
 hide:
   - footer

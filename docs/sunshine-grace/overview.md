@@ -1,5 +1,5 @@
 ---
-description: 'Minecraft mod that adds a "grace period" for players who are joining an existing world for the first time.'
+social_description: 'Minecraft mod that adds a "grace period" for players who are joining an existing world for the first time.'
 
 hide:
   - footer

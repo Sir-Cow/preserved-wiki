@@ -1,5 +1,5 @@
 ---
-description: Minecraft mod that adds waypoint teleportation to the game as a vanilla-esque feature.
+social_description: Minecraft mod that adds waypoint teleportation to the game as a vanilla-esque feature.
 
 hide:
   - footer

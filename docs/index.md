@@ -1,5 +1,5 @@
 ---
-description: Official Team Preserved website containing documentation for our projects.
+social_description: Official Team Preserved website containing documentation for our projects.
 
 hide:
   - footer

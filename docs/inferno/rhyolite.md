@@ -1,5 +1,5 @@
 ---
-description: Rhyolite is a block of igneous rock that can be found naturally and is created when water flows over a lava source.
+social_description: Rhyolite is a block of igneous rock that can be found naturally and is created when water flows over a lava source.
 
 hide:
   - footer

@@ -1,5 +1,5 @@
 ---
-description: A Copper Trident is a weapon that can be used to perform melee attacks, or be thrown as a projectile that is not slowed down by water.
+social_description: A Copper Trident is a weapon that can be used to perform melee attacks, or be thrown as a projectile that is not slowed down by water.
 
 hide:
   - footer

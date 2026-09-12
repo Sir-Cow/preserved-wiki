@@ -1,5 +1,5 @@
 ---
-description: 'Minecraft mod that enhances the "survival" aspect of Minecraft''s gameplay. Core mod for the Preserved mod set.'
+social_description: 'Minecraft mod that enhances the "survival" aspect of Minecraft''s gameplay. Core mod for the Preserved mod set.'
 
 hide:
   - footer

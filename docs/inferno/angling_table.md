@@ -1,5 +1,5 @@
 ---
-description: An Angling Table is a block used to add and remove fishing rod parts from fishing rods.
+social_description: An Angling Table is a block used to add and remove fishing rod parts from fishing rods.
 
 hide:
   - footer
