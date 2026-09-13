@@ -1,12 +1,11 @@
 ---
-social_description: 'Minecraft mod that adds a "grace period" for players who are joining an existing world for the first time.'
-
 hide:
   - footer
 
 search:
   exclude: true
 
+social_description: 'Minecraft mod that adds a "grace period" for players who are joining an existing world for the first time.'
 social_image: https://sir-cow.github.io/preserved-wiki/img/sunshine-grace/sunshine_grace.png
 ---
 

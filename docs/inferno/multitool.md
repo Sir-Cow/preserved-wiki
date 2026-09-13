@@ -1,9 +1,8 @@
 ---
-social_description: A Multitool is a tiered tool that is able to mine most blocks.
-
 hide:
   - footer
 
+social_description: A multitool is a tiered tool that is able to mine most blocks.
 social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/multitool.gif
 ---
 
@@ -11,7 +10,7 @@ social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/multitool.gif
 
 ---
 
-A Multitool is a tiered tool that is able to mine most blocks. The mining level of a given multitool determines which blocks it can collect.
+A multitool is a tiered tool that is able to mine most blocks. The mining level of a given multitool determines which blocks it can collect.
 
 <div style="float: right; width: 300px; margin-left: 20px;">
 

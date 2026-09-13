@@ -1,12 +1,11 @@
 ---
-social_description: Minecraft mod that adds waypoint teleportation to the game as a vanilla-esque feature.
-
 hide:
   - footer
 
 search:
   exclude: true
 
+social_description: Minecraft mod that adds waypoint teleportation to the game as a vanilla-esque feature.
 social_image: https://sir-cow.github.io/preserved-wiki/img/reverb-compass/reverb_compass.png
 ---
 

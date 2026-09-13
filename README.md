@@ -1,9 +1,7 @@
-# preserved-wiki
+# Team Preserved Official Site
 
 Documentation/Wiki site for Team Preserved projects.
 
-## 📄 Documentation
+[https://sir-cow.github.io/preserved-wiki/](https://sir-cow.github.io/preserved-wiki/)
 
----
-
-### 🛠 [Inferno Documentation](https://sir-cow.github.io/preserved-wiki/inferno/overview/) (Under Construction)
+Copyright &copy; 2026 Team Preserved

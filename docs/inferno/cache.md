@@ -2,12 +2,15 @@
 hide:
   - footer
 
+social_description: A cache is an item that can store up to 15 different stacks of items within a single inventory slot.
 social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/cache.png
 ---
 
 # Cache
 
 ---
+
+A cache is an item that can store up to 15 different stacks of items within a single inventory slot.
 
 <div style="float: right; width: 300px; margin-left: 20px;">
 

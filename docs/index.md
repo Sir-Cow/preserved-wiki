@@ -1,6 +1,4 @@
 ---
-social_description: Official Team Preserved website containing documentation for our projects.
-
 hide:
   - footer
   - toc
@@ -8,6 +6,7 @@ hide:
 search:
   exclude: true
 
+social_description: Official Team Preserved website containing documentation for our projects.
 social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/inferno.png
 ---
 
