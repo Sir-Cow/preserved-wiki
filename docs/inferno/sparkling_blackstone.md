@@ -3,7 +3,7 @@ hide:
   - footer
 
 social_description: Sparkling Blackstone is a fragile block found in bastion remnants that matures over time.
-social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/sparkling_blackstone.gif
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/blocks/sparkling_blackstone.gif
 ---
 
 {% from "includes/block_info.md" import block_info with context %}
@@ -16,7 +16,7 @@ Sparkling Blackstone is a fragile block found in bastion remnants that matures o
 
 {{ block_info(
     name="Sparkling Blackstone",
-    image="../../img/inferno/sparkling_blackstone.gif",
+    image="../../img/inferno/blocks/sparkling_blackstone.gif",
     renewable="No",
     stackable="Yes (64)",
     tool="Pickaxe",

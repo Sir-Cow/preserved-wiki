@@ -3,7 +3,7 @@ hide:
   - footer
 
 social_description: A copper trident is a weapon that can be used to perform melee attacks, or be thrown as a projectile that is not slowed down by water.
-social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/copper_trident.png
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/items/copper_trident.png
 ---
 
 # Copper Trident
@@ -20,7 +20,7 @@ A copper trident is a weapon that can be used to perform melee attacks, or be th
 </tr>
 <tr>
 <td colspan="2" align="center" markdown="1">
-<img src="../../img/inferno/copper_trident.png" alt="Copper Trident" width="200">
+<img src="../../img/inferno/items/copper_trident.png" alt="Copper Trident" width="200">
 </td>
 </tr>
 <tr>

@@ -3,7 +3,7 @@ hide:
   - footer
 
 social_description: An angling table is a block used to add and remove fishing rod parts from fishing rods.
-social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/angling_table.png
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/blocks/angling_table.png
 ---
 
 {% from "includes/block_info.md" import block_info with context %}
@@ -16,7 +16,7 @@ An angling table is a block used to add and remove fishing rod parts from fishin
 
 {{ block_info(
     name="Angling Table",
-    image="../../img/inferno/angling_table.png",
+    image="../../img/inferno/blocks/angling_table.png",
     renewable="Yes",
     stackable="Yes (64)",
     tool="Axe",
@@ -45,7 +45,7 @@ Angling tables can be mined by hand or with any tool, but axes are the quickest.
 
 ### Crafting
 
-![Angling Table Recipe](../img/inferno/angling_table_recipe.png){ width="300" }
+![Angling Table Recipe](../img/inferno/recipes/angling_table_recipe.png){ width="300" }
 
 ## Usage
 

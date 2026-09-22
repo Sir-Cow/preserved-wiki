@@ -3,7 +3,7 @@ hide:
   - footer
 
 social_description: Rhyolite is a block of igneous rock that can be found naturally and is created when water flows over a lava source.
-social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/rhyolite.png
+social_image: https://sir-cow.github.io/preserved-wiki/img/inferno/blocks/rhyolite.png
 ---
 
 {% from "includes/block_info.md" import block_info with context %}
@@ -16,7 +16,7 @@ Rhyolite is a block of igneous rock that can be found naturally and is created w
 
 {{ block_info(
     name="Rhyolite",
-    image="../../img/inferno/rhyolite.png",
+    image="../../img/inferno/blocks/rhyolite.png",
     renewable="Yes",
     stackable="Yes (64)",
     tool="Pickaxe",
