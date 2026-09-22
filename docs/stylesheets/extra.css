@@ -184,7 +184,3 @@
   color: var(--md-default-fg-color--light);
   font-size: 0.85rem;
 }
-
-.recipe-table td {
-    vertical-align: middle;
-}
