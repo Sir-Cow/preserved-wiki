@@ -64,13 +64,14 @@ extra:
 copyright: Copyright &copy; 2026 Team Preserved
 
 plugins:
-  - search
-  - macros
+  - glightbox
   - link-embeds:
       enabled: true
       name_default: "Untitled Link"
       desc_default: "No description found"
       image_disabled: false
+  - macros
+  - search
 
 extra_css:
   - stylesheets/extra.css
@@ -80,6 +81,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - meta
   - pymdownx.superfences
 
 extra_javascript:

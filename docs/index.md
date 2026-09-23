@@ -1,4 +1,6 @@
 ---
+glightbox: false
+
 hide:
   - footer
   - toc

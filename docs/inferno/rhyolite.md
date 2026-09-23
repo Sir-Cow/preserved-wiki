@@ -57,10 +57,10 @@ Rhyolite has the same blast resistance as stone, allowing it to be used as a rep
 
 [Rhyolite slab, rhyolite stairs, rhyolite wall, rhyolite bricks, polished rhyolite]
 
-| Name                        | Ingredients          | Crafting recipe                                                                                           |
-| :-------------------------- | :------------------- | :-------------------------------------------------------------------------------------------------------: |
-| <br><br><br>Rhyolite Slab   | <br><br><br>Rhyolite | <img src="../../img/inferno/recipes/rhyolite_slab_recipe.png" alt="Rhyolite Slab Recipe" width="300">     |
-| <br><br><br>Rhyolite Stairs | <br><br><br>Rhyolite | <img src="../../img/inferno/recipes/rhyolite_stairs_recipe.png" alt="Rhyolite Stairs Recipe" width="300"> |
+| Name            | Ingredients | Crafting recipe                                                                                           |
+| :-------------- | :---------- | :-------------------------------------------------------------------------------------------------------: |
+| Rhyolite Slab   | Rhyolite    | <img src="../../img/inferno/recipes/rhyolite_slab_recipe.png" alt="Rhyolite Slab Recipe" width="320">     |
+| Rhyolite Stairs | Rhyolite    | <img src="../../img/inferno/recipes/rhyolite_stairs_recipe.png" alt="Rhyolite Stairs Recipe" width="320"> |
 
 ### Stone cutting ingredient
 

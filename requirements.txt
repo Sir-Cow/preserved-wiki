@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-link-embeds-plugin
 mkdocs-macros-plugin
+mkdocs-glightbox
