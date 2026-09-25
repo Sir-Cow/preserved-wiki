@@ -64,7 +64,8 @@ extra:
 copyright: Copyright &copy; 2026 Team Preserved
 
 plugins:
-  - glightbox
+  - glightbox:
+      background: none
   - link-embeds:
       enabled: true
       name_default: "Untitled Link"

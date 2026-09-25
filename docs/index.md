@@ -118,3 +118,5 @@ All of our Minecraft mods are available on Modrinth and Curseforge:
 </div>
 </div>
 </div>
+
+<small><center>Team Preserved is not affiliated or associated with Minecraft or Mojang AB/Mojang Studios.</center></small>
